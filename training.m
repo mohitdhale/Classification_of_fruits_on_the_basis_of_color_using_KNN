@@ -1,6 +1,6 @@
 
 %function[output]=signature(img)
-input_dir = 'C:\Users\admin\Desktop\citrusimage3\Data training';
+input_dir = '\Data training';
 filenames = dir(fullfile(input_dir, '*.jpg'));
 
 
