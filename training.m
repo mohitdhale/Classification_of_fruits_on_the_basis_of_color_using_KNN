@@ -55,7 +55,7 @@ k=k+1;
  mgi_train=mgi_train1;
  label_train=label_train1
 
-save('C:/Users/Admin/Desktop/citrusimage3/Data Training/trainset.mat','mri_train','mbi_train','mgi_train','label_train');
+save('/Data Training/trainset.mat','mri_train','mbi_train','mgi_train','label_train');
 
     
     
