@@ -1,6 +1,6 @@
 
 %function[output]=signature(img)
-input_dir = '/Data Testing';
+input_dir = '/data Testing';
 
 
 filenames = dir(fullfile(input_dir, '*.jpg'));
